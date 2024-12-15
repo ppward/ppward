@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To-nl-PPWARD's%20Profile!&fontSize=40)
 
 ## 🚀 About Me
 Hi there! I'm a passionate developer with expertise in full-stack development, cloud services, and AI solutions. Always exploring new technologies and pushing the boundaries of innovation.
@@ -13,6 +13,7 @@ Hi there! I'm a passionate developer with expertise in full-stack development, c
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 
 ### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
