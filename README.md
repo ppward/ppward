@@ -1,8 +1,9 @@
-# Welcome to My GitHub Profile! 👋
+# 매일매일 한 발자국 성장하는 개발자, 박기표의 Git에 오신것을 환영합니다! 👋
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To-nl-PPWARD's%20Profile!&fontSize=40)
 
 ## 🚀 About Me
+
 Hi there! I'm a passionate developer with expertise in full-stack development, cloud services, and AI solutions. Always exploring new technologies and pushing the boundaries of innovation.
 
 ---
@@ -18,12 +19,12 @@ Hi there! I'm a passionate developer with expertise in full-stack development, c
 ### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
+<img src="https://img.shields.io/badge/nextjs%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 ---
 
 ## 📊 GitHub Stats
