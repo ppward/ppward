@@ -3,8 +3,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To-nl-PPWARD's%20Profile!&fontSize=40)
 
 ## 🚀 About Me
+- 🔭 I’m currently interested in robotics and cloud.
+- 🌱 I’m a college graduate.
+- 🖥️ My major is Computer Science and Engineering.
+- 📫 How to reach me xhtjstod1224@gmail.com
 
-Hi there! I'm a passionate developer with expertise in full-stack development, cloud services, and AI solutions. Always exploring new technologies and pushing the boundaries of innovation.
 
 ---
 
