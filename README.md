@@ -50,7 +50,7 @@
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/기표-박-60814b348/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=readthedocs&logoColor=white)]([https://YourPortfolio.com](https://www.notion.so/Hi-I-m-GiPyo-1f4789dadf798054a0cac406a15572d6))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=readthedocs&logoColor=white)]([[https://YourPortfolio.com](https://www.notion.so/Hi-I-m-GiPyo-1f4789dadf798054a0cac406a15572d6](https://rightful-citrine-e23.notion.site/Hi-I-m-GiPyo-1f4789dadf798054a0cac406a15572d6)))
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
