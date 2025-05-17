@@ -14,6 +14,7 @@
 ## 🛠️ Skills and Tools
 
 ### Programming Languages
+![C](https://img.shields.io/badge/C-%A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
